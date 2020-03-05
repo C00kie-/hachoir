@@ -14,8 +14,7 @@ reprensentation.
 **hachoir-urwid** is the most user friendly interface based on Hachoir to
 explore a binary file.
 
-Before use, make sure to install the required dependencies with ``pip install
-hachoir[urwid]``.
+Before use, make sure to install the required dependencies with ``python3 -m pip install -U urwid``.
 
 .. image:: images/urwid.png
    :alt: hachoir-urwid screenshot (MP3 audio file)
